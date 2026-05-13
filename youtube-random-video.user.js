@@ -1,12 +1,16 @@
 // ==UserScript==
 // @name         YouTube Random Video Button
 // @namespace    https://stmalina.ru/youtube-random-video
-// @version      1.0.3
+// @version      1.0.4
 // @description  Добавляет в табы канала YouTube кнопку запуска случайного видео этого канала
 // @description:en  Adds a "Random video" tab on YouTube channel pages
 // @author       StMalina
 // @copyright    2026, StMalina (https://stmalina.ru)
 // @homepage     https://stmalina.ru
+// @homepageURL  https://github.com/StMalina/youtube-random-video
+// @supportURL   https://github.com/StMalina/youtube-random-video/issues
+// @updateURL    https://raw.githubusercontent.com/StMalina/youtube-random-video/main/youtube-random-video.user.js
+// @downloadURL  https://raw.githubusercontent.com/StMalina/youtube-random-video/main/youtube-random-video.user.js
 // @match        https://www.youtube.com/*
 // @grant        none
 // @run-at       document-idle
